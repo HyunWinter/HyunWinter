@@ -21,6 +21,8 @@
   &nbsp;
   <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   &nbsp;
+  <img alt="Flutter" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
+  &nbsp;
   <img alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 </p>
 
