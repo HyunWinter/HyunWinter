@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Senior year at Oregon Institute of Technology
 - 🌱 I’m currently learning Android development
-- 🥅 2020 Goals: Get a part time job or internship
+- 🥅 2020 Goals: Get a part-time job or internship
 - ⚡ Fun fact: I love to cook and bake
 
 ### Languages and Tools:
