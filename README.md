@@ -1,8 +1,8 @@
 ### Hi there, I'm Hyun 👋
 
-- 🔭 I’m currently working on my senior year at Oregon Institute of Technology
-- 🌱 I’m currently learning Android development
-- 🥅 2021 Goals: Get a part-time job or internship
+- 🔭 I recently earned a B.S. in Software Engineering Tech
+- 🌱 I’m currently learning web development
+- 🥅 2021 Goal: Get an internship or job in my field.
 
 ### Languages and Tools:
 
