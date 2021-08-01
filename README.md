@@ -2,7 +2,7 @@
 
 - 🔭 I recently earned a B.S. in Software Engineering Tech
 - 🌱 I’m currently learning web development
-- 🥅 2021 Goal: Get an internship or job in my field.
+- 🥅 2021 Goal: Get a full-time job.
 
 ### Languages and Tools:
 
