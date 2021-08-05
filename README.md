@@ -38,8 +38,10 @@
   <img alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 </p>
 
-##### Database
+##### Databases & Cloud
 <p align="left">
+  <img alt="Google Cloud" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v0a30303ec7b067b5f3ae9ccc0662a5464fa8a5fb796392acd97bcfd40590684c/cloud/images/favicons/onecloud/apple-icon.png" /> 
+  &nbsp;
   <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> 
   &nbsp;
   <img alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
