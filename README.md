@@ -1,7 +1,9 @@
 ### Hi there, I'm Hyun 👋
 
-- 🔭 I recently earned a B.S. in Software Engineering Tech
+- ⚡ I am a Frontend Developer based in Portland, OR
+- 🔭 I earned a B.S. in Software Engineering Tech in 2021
 - 🌱 I’m currently learning web development
+-	📖 This is my off work, personal repository
 
 ### Languages and Tools:
 
