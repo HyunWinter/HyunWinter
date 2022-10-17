@@ -1,9 +1,9 @@
 ### Hi there, I'm Hyun 👋
 
-- ⚡ I am a Frontend Developer based in Portland, OR
+- ⚡ I am a Full Stack Developer based in Portland, OR
 - 🔭 I earned a B.S. in Software Engineering Tech in 2021
 - 🌱 I’m currently learning web development
--	📖 This is my off work, personal repository
+- 📖 This is my off work, personal repository
 
 ### Languages and Tools:
 
