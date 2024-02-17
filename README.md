@@ -1,4 +1,4 @@
-### Hi there, I'm Hyun 👋
+### Hi there, I'm H 👋
 
 - ⚡ I am a Full Stack Developer based in Portland, OR
 - 🔭 I earned a B.S. in Software Engineering Tech in 2021
