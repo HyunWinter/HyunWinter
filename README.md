@@ -21,6 +21,8 @@
   &nbsp;
   <img alt="CSS" height="26px" width="26px" src="https://svgl.app/library/css.svg" />
   &nbsp;
+  <img alt="Tailwind" height="26px" width="26px" src="https://svgl.app/library/tailwindcss.svg" />
+  &nbsp;
   <img alt="Headless UI" height="26px" width="26px" src="https://svgl.app/library/headlessui.svg" />
   &nbsp;
   <img alt="shadcn/ui" height="26px" width="26px" src="https://svgl.app/library/shadcn-ui_dark.svg" />
@@ -81,7 +83,7 @@
   &nbsp;
   <img alt="Strapi" height="26px" width="26px" src="https://svgl.app/library/strapi.svg" />
   &nbsp;
-  <img alt="Sanity" height="26px" width="120px" src="https://svgl.app/library/sanity.svg" />
+  <img alt="Sanity" height="26px" width="110px" src="https://svgl.app/library/sanity.svg" />
   &nbsp;
   <img alt="Vercel" height="26px" width="26px" src="https://svgl.app/library/vercel.svg" />
 </p>
