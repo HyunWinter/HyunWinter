@@ -7,75 +7,93 @@
 
 ### Languages and Tools:
 
-##### Web
+##### Frontend
 <p align="left">
-  <img alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+  <img alt="Vue.js" height="26px" width="26px" src="https://svgl.app/library/vue.svg" />
   &nbsp;
-  <img alt="React.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img alt="React.js" height="26px" width="26px" src="https://svgl.app/library/react.svg" />
   &nbsp;
-  <img alt="Material Design" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />
+  <img alt="JavaScript" height="26px" width="26px" src="https://svgl.app/library/javascript.svg" />
   &nbsp;
-  <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="TypeScript" height="26px" width="26px" src="https://svgl.app/library/typescript.svg" />
   &nbsp;
-  <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img alt="HTML" height="26px" width="26px" src="https://svgl.app/library/html5.svg" />
   &nbsp;
-  <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS" height="26px" width="26px" src="https://svgl.app/library/css.svg" />
   &nbsp;
-  <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="Headless UI" height="26px" width="26px" src="https://svgl.app/library/headlessui.svg" />
+  &nbsp;
+  <img alt="shadcn/ui" height="26px" width="26px" src="https://svgl.app/library/shadcn-ui_dark.svg" />
+  &nbsp;
+  <img alt="Radix UI" height="26px" width="26px" src="https://svgl.app/library/radix-ui_dark.svg" />
+  &nbsp;
+  <img alt="Material Design" height="26px" width="26px" src="https://svgl.app/library/materialui.svg" />
+  &nbsp;
+  <img alt="Chakra UI" height="26px" width="26px" src="https://svgl.app/library/chakra-ui.svg" />
 </p>
 
-##### Android
+##### Backend
 <p align="left">
-  <img alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+  <img alt="C" height="26px" width="26px" src="https://svgl.app/library/c.svg" />
   &nbsp;
-  <img alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+  <img alt="C++" height="26px" width="26px" src="https://svgl.app/library/c++.svg" />
   &nbsp;
-  <img alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+  <img alt="C#" height="26px" width="26px" src="https://svgl.app/library/csharp.svg" />
   &nbsp;
-  <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img alt="Python" height="26px" width="26px" src="https://svgl.app/library/python.svg" />
   &nbsp;
-  <img alt="Flutter" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
+  <img alt="Node.js" height="26px" width="26px" src="https://svgl.app/library/nodejs.svg" />
   &nbsp;
-  <img alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+  <img alt="Android Studio" height="26px" width="26px" src="https://svgl.app/library/android-icon.svg" />
+  &nbsp;
+  <img alt="Java" height="26px" width="26px" src="https://svgl.app/library/java.svg" />
+  &nbsp;
+  <img alt="Kotlin" height="26px" width="26px" src="https://svgl.app/library/kotlin.svg" />
+  &nbsp;
+  <img alt="Flutter" height="26px" width="26px" src="https://svgl.app/library/flutter.svg" />
+  &nbsp;
+  <img alt="TensorFlow" height="26px" width="26px" src="https://svgl.app/library/tensorflow.svg" />
+  &nbsp;
+  <img alt="Linux" height="26px" width="26px" src="https://svgl.app/library/linux.svg" />
+  &nbsp;
+  <img alt="QT" height="26px" width="26px" src="https://svgl.app/library/qt.svg" />
+  &nbsp;
+  <img alt="Docker" height="26px" width="26px" src="https://svgl.app/library/docker.svg" />
+  &nbsp;
+  <img alt="git" height="26px" width="26px" src="https://svgl.app/library/git.svg" />
 </p>
 
-##### Databases & Cloud
+##### Databases & Cloud & CMS
 <p align="left">
-  <img alt="Google Cloud" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v0a30303ec7b067b5f3ae9ccc0662a5464fa8a5fb796392acd97bcfd40590684c/cloud/images/favicons/onecloud/apple-icon.png" /> 
+  <img alt="Google Cloud" height="26px" width="26px" src="https://svgl.app/library/google.svg" /> 
   &nbsp;
-  <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> 
+  <img alt="Firebase" height="26px" width="26px" src="https://svgl.app/library/firebase.svg" /> 
   &nbsp;
-  <img alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+  <img alt="Amazon Web Services" height="26px" width="26px" src="https://svgl.app/library/aws.svg" />
   &nbsp;
-  <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  <img alt="SQLite" height="26px" width="52px" src="https://svgl.app/library/sqlite.svg" />
   &nbsp;
-  <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img alt="MySQL" height="26px" width="26px" src="https://svgl.app/library/mysql.svg" />
   &nbsp;
-  <img alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+  <img alt="PostgresSQL" height="26px" width="26px" src="https://svgl.app/library/postgresql.svg" />
+  &nbsp;
+  <img alt="Django" height="26px" width="26px" src="https://svgl.app/library/django.svg" />
+  &nbsp;
+  <img alt="Strapi" height="26px" width="26px" src="https://svgl.app/library/strapi.svg" />
+  &nbsp;
+  <img alt="Sanity" height="26px" width="120px" src="https://svgl.app/library/sanity.svg" />
+  &nbsp;
+  <img alt="Vercel" height="26px" width="26px" src="https://svgl.app/library/vercel.svg" />
 </p>
 
-##### Other Languages
+##### Design Tools
 <p align="left">
-  <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+  <img alt="Photoshop" height="26px" width="26px" src="https://svgl.app/library/photoshop.svg" />
   &nbsp;
-  <img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+  <img alt="Lightroom" height="26px" width="26px" src="https://svgl.app/library/lightroom.svg" />
   &nbsp;
-  <img alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+  <img alt="Premiere" height="26px" width="26px" src="https://svgl.app/library/premiere.svg" />
   &nbsp;
-  <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</p>
-
-##### OS & Other Programs
-<p align="left">
-  <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+  <img alt="Figma" height="26px" width="26px" src="https://svgl.app/library/figma.svg" /> 
   &nbsp;
-  <img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-  &nbsp;
-  <img alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
-  &nbsp;
-  <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-  &nbsp;
-  <img alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  &nbsp;
-  <img alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
 </p>
