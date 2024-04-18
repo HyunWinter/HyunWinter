@@ -3,7 +3,7 @@
 - ⚡ I am a Full Stack Developer based in Portland, OR
 - 🔭 I earned a B.S. in Software Engineering Tech in 2021
 - 🌱 I’m currently learning web development
-- 📖 This is my off work repository (mostly for private game servers, freelance, and personal projects)
+- 📖 This is my off-work repository (mostly for private game servers, freelance, and personal projects)
 
 ### Languages and Tools:
 
