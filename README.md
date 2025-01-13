@@ -85,7 +85,7 @@
   &nbsp;
   <img alt="Sanity" height="26px" width="110px" src="https://svgl.app/library/sanity.svg" />
   &nbsp;
-  <img alt="Vercel" height="26px" width="26px" src="https://svgl.app/library/vercel.svg" />
+  <img alt="Vercel" height="26px" width="26px" src="https://svgl.app/library/vercel_dark.svg" />
 </p>
 
 ##### Design Tools
