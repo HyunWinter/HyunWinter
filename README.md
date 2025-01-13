@@ -38,7 +38,7 @@
 <p align="left">
   <img alt="C" height="26px" width="26px" src="https://svgl.app/library/c.svg" />
   &nbsp;
-  <img alt="C++" height="26px" width="26px" src="https://svgl.app/library/c++.svg" />
+  <img alt="C++" height="26px" width="26px" src="https://svgl.app/library/c-plusplus.svg" />
   &nbsp;
   <img alt="C#" height="26px" width="26px" src="https://svgl.app/library/csharp.svg" />
   &nbsp;
@@ -71,7 +71,7 @@
   &nbsp;
   <img alt="Firebase" height="26px" width="26px" src="https://svgl.app/library/firebase.svg" /> 
   &nbsp;
-  <img alt="Amazon Web Services" height="26px" width="26px" src="https://svgl.app/library/aws.svg" />
+  <img alt="Amazon Web Services" height="26px" width="26px" src="https://svgl.app/library/aws_dark.svg" />
   &nbsp;
   <img alt="SQLite" height="26px" width="52px" src="https://svgl.app/library/sqlite.svg" />
   &nbsp;
