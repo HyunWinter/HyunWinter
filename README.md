@@ -11,7 +11,7 @@
 <p align="left">
   <img alt="Vue.js" height="26px" width="26px" src="https://svgl.app/library/vue.svg" />
   &nbsp;
-  <img alt="React.js" height="26px" width="26px" src="https://svgl.app/library/react.svg" />
+  <img alt="React.js" height="26px" width="26px" src="https://svgl.app/library/react_dark.svg" />
   &nbsp;
   <img alt="JavaScript" height="26px" width="26px" src="https://svgl.app/library/javascript.svg" />
   &nbsp;
