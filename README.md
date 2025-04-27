@@ -65,7 +65,7 @@
   <img alt="git" height="26px" width="26px" src="https://svgl.app/library/git.svg" />
 </p>
 
-##### Databases & Cloud & CMS
+##### Databases & Cloud & Headless CMS
 <p align="left">
   <img alt="Google Cloud" height="26px" width="26px" src="https://svgl.app/library/google.svg" /> 
   &nbsp;
