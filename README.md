@@ -19,7 +19,6 @@
 </p>
 
 <p>
-  &nbsp;
   <img alt="Django" height="26px" src="./assets/framework/django.svg" />
   &nbsp;
   <img alt="Vue.js" height="23px" src="./assets/framework/vue.svg" />
@@ -33,7 +32,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/framework/tailwindcss-wordmark.svg">
     <img alt="Tailwind CSS" height="22px" src="./assets/framework/tailwindcss-wordmark.svg">
   </picture>
-  &nbsp;
 </p>
 
 ### I Also Love Using
@@ -57,7 +55,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/language/rust.svg">
     <img alt="Rust" height="26px" src="./assets/language/rust.svg">
   </picture>
-  &nbsp;
 </p>
 
 ##### Frameworks & Libraries
@@ -75,7 +72,6 @@
   </picture>
   &nbsp;
   <img alt="Redux" height="26px" src="./assets/library/redux.svg" />
-  &nbsp;
 </p>
 
 <p>
@@ -96,7 +92,6 @@
   <img alt="Electron" height="26px" src="./assets/library/electron.svg" />
   &nbsp;
   <img alt="Tauri" height="26px" src="./assets/library/tauri.svg" />
-  &nbsp;
 </p>
 
 <p>
@@ -115,7 +110,6 @@
   </picture>
   &nbsp;
   <img alt="Flutter" height="26px" src="./assets/framework/flutter.svg" />
-  &nbsp;
 </p>
 
 <p>
@@ -127,6 +121,7 @@
   &nbsp;
   <img alt="Twilio" height="26px" src="./assets/auth/twilio.svg" />
   &nbsp;
+  <img alt="Stripe" height="26px" src="./assets/library/stripe.svg" />
 </p>
 
 ##### Databases & Cloud Platforms
@@ -162,7 +157,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/hosting/vercel_wordmark.svg">
     <img alt="Vercel" height="22px" src="./assets/hosting/vercel_wordmark.svg">
   </picture>
-  &nbsp;
 </p>
 
 ##### CMS & Authentication
@@ -194,7 +188,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/auth/better-auth_wordmark_light.svg">
     <img alt="Better Auth" height="26px" src="./assets/auth/better-auth_wordmark_light.svg">
   </picture>
-  &nbsp;
 </p>
 
 ##### Software & Tools
@@ -202,7 +195,6 @@
   <img alt="Docker" height="26px" src="./assets/software/docker.svg" />
   &nbsp;
   <img alt="Linux" height="26px" src="./assets/software/linux.svg" />
-  &nbsp;
 </p>
 
 ##### AI Integration & Tools & Automation
@@ -226,7 +218,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/ai/n8n-wordmark-light.svg">
     <img alt="n8n" height="24px" src="./assets/ai/n8n-wordmark-light.svg">
   </picture>
-  &nbsp;
 </p>
 
 ##### Design Tools
@@ -236,5 +227,4 @@
   <img alt="Premiere" height="26px" src="./assets/design/premiere.svg" />
   &nbsp;
   <img alt="Figma" height="26px" src="./assets/design/figma.svg" />
-  &nbsp;
 </p>
