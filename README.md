@@ -11,6 +11,8 @@
   &nbsp;
   <img alt="JavaScript" height="26px" src="./assets/language/javascript.svg" />
   &nbsp;
+  <img alt="TypeScript" height="26px" src="./assets/language/typescript.svg" />
+  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/software/aws_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/software/aws_light.svg">
