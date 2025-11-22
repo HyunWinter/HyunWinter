@@ -74,6 +74,8 @@
   </picture>
   &nbsp;
   <img alt="Redux" height="26px" src="./assets/library/redux.svg" />
+  &nbsp;
+  <img alt="Zustand" height="26px" src="./assets/library/zustand.svg" />
 </p>
 
 <p>
@@ -127,7 +129,7 @@
 </p>
 
 ##### Databases & Cloud Platforms
-<p align="left">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/database/mysql-wordmark-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/database/mysql-wordmark-light.svg">
@@ -162,7 +164,7 @@
 </p>
 
 ##### CMS & Authentication
-<p align="left">
+<p>
   <img alt="Strapi" height="26px" src="./assets/cms/strapi.svg" />
   &nbsp;
   <picture>
@@ -193,14 +195,18 @@
 </p>
 
 ##### Software & Tools
-<p align="left">
+<p>
+  <img alt="Git" height="26px" src="./assets/software/git.svg" />
+  &nbsp;
   <img alt="Docker" height="26px" src="./assets/software/docker.svg" />
   &nbsp;
   <img alt="Linux" height="26px" src="./assets/software/linux.svg" />
+  &nbsp;
+  <img alt="Ubuntu" height="26px" src="./assets/software/ubuntu.svg" />
 </p>
 
 ##### AI Integration & Tools & Automation
-<p align="left">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ai/openai_wordmark_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/ai/openai_wordmark_light.svg">
@@ -223,7 +229,7 @@
 </p>
 
 ##### Design Tools
-<p align="left">
+<p>
   <img alt="Photoshop" height="26px" src="./assets/design/photoshop.svg" />
   &nbsp;
   <img alt="Premiere" height="26px" src="./assets/design/premiere.svg" />
