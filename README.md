@@ -109,7 +109,7 @@
     <img alt="Three.js" height="26px" src="./assets/library/threejs-light.svg">
   </picture>
   &nbsp;
-  <img alt="Flutter" height="26px" src="./assets/framework/flutter.svg" />
+  <img alt="GSAP" height="24px" src="./assets/library/gsap.svg" />
 </p>
 
 <p>
