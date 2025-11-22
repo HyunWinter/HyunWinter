@@ -2,8 +2,8 @@
 
 - ⚡ I am a Full Stack Developer with 4 years of experience
 - 🔭 I am based in Oregon, USA
-- 🌱 This is my off-work profile for hobby projects (mostly private)
-- 🔍 Check out my website for more works
+- 🌱 This is my off-work profile for hobby projects (mostly private!)
+- 🔍 Check out my [website](https://hyun-wt.com) for more works
 
 ### Primary Tech Stacks
 <p>
