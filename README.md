@@ -4,7 +4,7 @@
 - 🔭 I am based in Oregon, USA
 - 🌱 This account is my off-work profile for hobby projects (mostly private)
 - 🌐 Check out my [website](https://hyun-wt.com) for more works
-- 🔍 Currently looking for a work while developing an vertical AI SaaS service
+- 🔍 Currently looking for a work while developing a vertical AI SaaS service
 
 ### Primary Tech Stacks
 <p>
