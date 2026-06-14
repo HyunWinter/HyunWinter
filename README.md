@@ -1,9 +1,10 @@
-### Hi there, I'm H 👋
+### Hi, I'm Hyun (you can also call me by H) 👋
 
-- ⚡ I am a Full Stack Developer with 4 years of experience
+- ⚡ I am a Software Engineer with 5 years of experience
 - 🔭 I am based in Oregon, USA
-- 🌱 This is my off-work profile for hobby projects (mostly private!)
-- 🔍 Check out my [website](https://hyun-wt.com) for more works
+- 🌱 This account is my off-work profile for hobby projects (mostly private)
+- 🌐 Check out my [website](https://hyun-wt.com) for more works
+- 🔍 Currently looking for a work while developing an vertical AI SaaS service
 
 ### Primary Tech Stacks
 <p>
