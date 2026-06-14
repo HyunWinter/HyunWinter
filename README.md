@@ -3,7 +3,7 @@
 - ⚡ I am a Software Engineer with 5 years of experience
 - 🔭 I am based in Oregon, USA
 - 🌱 This account is my off-work profile for hobby projects (mostly private)
-- 🌐 Check out my [website](https://hyun-wt.com) for more works
+- 🌐 Check out my [website](https://hyun-wt.com) for more works and professional contact
 - 🔍 Currently looking for a work while developing a vertical AI SaaS service
 
 ### Primary Tech Stacks
