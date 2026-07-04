@@ -45,8 +45,6 @@
   &nbsp;
   <img alt="CSS3" height="26px" src="./assets/language/css.svg" />
   &nbsp;
-  <img alt="C" height="26px" src="./assets/language/c.svg" />
-  &nbsp;
   <img alt="C++" height="26px" src="./assets/language/c-plusplus.svg" />
   &nbsp;
   <img alt="C#" height="26px" src="./assets/language/csharp.svg" />
